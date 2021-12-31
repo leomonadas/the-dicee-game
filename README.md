@@ -1,13 +1,13 @@
 # The Dicee Game
 
-![alt text](images/dice.png)
+![Dados](images/dice.png)
 
 ## The first boss challenge of Angela Yu's Web Dev bootcamp.
 ---
 
-<p align="center">🚀 Desenvolvimento de um jogo de dados que gera números aleatórios e define o ganhador. Feito para estudo de JavaScript.</p>
+<p align="center">🚀 Desenvolvimento de um jogo de dados que gera números aleatórios e define o ganhador. Feito para estudo de JavaScript. 🚀</p>
 
-#### Projeto Finalizado. 🚀
+### Projeto Finalizado. 🚀
 ---
 ### Autor
 ---
