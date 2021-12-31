@@ -1,6 +1,6 @@
 # The Dicee Game
 
-![Dados](images/dice.png)
+![Dices](images/dice.png)
 
 ## The first boss challenge of Angela Yu's Web Dev bootcamp.
 ---
