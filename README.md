@@ -3,7 +3,7 @@
 
 #### The first boss challenge of Angela Yu's Web Dev bootcamp.
 
-<p>🚀 Desenvolvimento de um jogo de dados que gera números aleatórios e define o ganhador. Feito para estudo de JavaScript. 🚀</p>
+🚀 Desenvolvimento de um jogo de dados que gera números aleatórios e define o ganhador. Feito para estudo de JavaScript. 🚀
 
 ## Feito Com:
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/pt-br/windows/get-windows-10)
@@ -13,12 +13,12 @@
 [![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 ## Status do projeto 🚀
-#### Finalizado.
+Finalizado.
 
 ## Autor
 
 <a href="https://github.com/leomonadas">
- <img style="border-radius: 50%;" src="images/imgAuthor.jpg" width="100px;" alt="Foto do autor do projeto"/>
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/77860170?v=4" width="100px;" alt="Foto do autor do projeto"/>
  <br />
  <sub><b>Leonardo Alves</b></sub></a> <a href="https://github.com/leomonadas" title="GitHub">🚀</a>
 
